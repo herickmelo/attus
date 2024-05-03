@@ -1,0 +1,2 @@
+INSERT INTO address (id, cep, state, city, street, number, is_main_address, id_person) VALUES (1, '59078-380', 'Rio Grande do Norte', 'Natal', 'Av. Gustavo', '0000', true, 1)
+INSERT INTO person (id, name, birth_date) VALUES (1, 'Pessoa teste', '1993-01-01')
