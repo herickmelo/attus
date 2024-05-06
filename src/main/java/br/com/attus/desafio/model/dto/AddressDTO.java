@@ -15,4 +15,5 @@ public class AddressDTO {
     private String street;
     private String number;
     private Boolean isMainAddress;
+    private Long idPerson;
 }
