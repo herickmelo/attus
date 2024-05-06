@@ -26,7 +26,7 @@ Após ter feito o download de todos os pré-requisitos, basta realizar a instala
 * Diagramas: os diagramas do sistema encontram-se em src/main/resources/diagrams/
 * Para acessar a interface do banco de dados local: http://localhost:8080/h2
 * Para acessar a documentação da API via Swagger UI local: http://localhost:8080/swagger-ui/index.html#/
-
+* Diagrama de classes: ![class_diagram.jpg](src/main/resources/class_diagram/class_diagram.jpg)
 ## 🛠️ Construído com
 
 * [Java](https://www.java.com/en/) - Linguagem
